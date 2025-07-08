@@ -1,4 +1,4 @@
-# LSD-AI
+# LDS-AI
 Latter_Day_Saints_AI
 Copyright (c) 2025 Sifiso Moyo
 
